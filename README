@@ -1,0 +1,5 @@
+This should get you started as a template!
+
+Keep in mind that putting this in as-is will not work because you need to make sure you add in the dependencies "mongodb, react etc etc".
+
+Also make sure to change the mongodb link for your project to go to your own stuff!
